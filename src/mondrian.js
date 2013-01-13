@@ -13,25 +13,17 @@
  * 	 	Mondrian.init('rgb'); // rgb(89,16,115)
  * 	 	Mondrian.init('rgb', true); // rgba(89,16,115,88)
  * 	 	Mondrian.init('rgb', 20); // rgba(89,16,115,20)
- * 	 	- When invoking the public rgb method directly the only argument it takes is transparency
- * 	 	Mondrian.rgb(); // rgb(89,16,115)
- * 	 	Mondrian.rgb('20'); // rgba(89,16,115,20)
  * - colorName
  * 	 Example:
  * 	 	Mondrian.init('colorName'); // Blue
- * 	 	Mondrian.colorName(); // Blue
  * - hex
  * 	 Example:
  * 	 	Mondrian.init('hex'); // #26a5a7
- * 	 	Mondrian.hex(); // #26a5a7
  * - hsl (allows transparency)
  * 	 Example:
  * 	 	Mondrian.init('hsl'); // hsl(29,98%,6%)
  * 	 	Mondrian.init('hsl', true); // hsla(11,38%,82%,13)
  * 	 	Mondrian.init('hsl', 20); // hsla(11,38%,82%,20)
- * 	 	- When invoking the public hsl method directly the only argument it takes is transparency
- * 	 	Mondrian.hsl(); // hsl(29,98%,6%)
- * 	 	Mondrian.hsl('20'); // hsla(11,38%,82%,13)
  *
  * Note: rendering a color with alpha transparency is only supported in browsers who support CSS3
  */
