@@ -5,3 +5,28 @@
   "dependencies": {},
   "devDependencies": {}
 }
+
+{
+  "name": "Mondrian",
+  "description": "Random color generation in JavaScript",
+  "author": {
+    "name": "Joe Pettersson",
+    "email": "me@joep.se"
+  },
+  "homepage": "https://github.com/JoePettersson/mondrian",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JoePettersson/mondrian.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JoePettersson/mondrian/issues"
+  },
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "yeoman": "~0.9.1"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/yeoman test --verbose"
+  }
+}
