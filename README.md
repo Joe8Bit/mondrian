@@ -1,5 +1,5 @@
 ##Mondrian
-![image](http://i.imgur.com/WmUJ7.png)
+![image](http://i.imgur.com/Ici3w.png)
 Mondrian is a library for generating random colors (and transparencies) in JavaScript. It supports `rgb(a)`, HTML colors (according to the [4.01 spec](http://en.wikipedia.org/wiki/Web_colors#HTML_color_names)), `hex` and `hsl(a)`.
 
 ####Usage
