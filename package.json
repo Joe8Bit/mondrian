@@ -1,12 +1,4 @@
 {
-  "author": "Joe Pettersson",
-  "name": "Mondrian",
-  "version": "0.0.1",
-  "dependencies": {},
-  "devDependencies": {}
-}
-
-{
   "name": "Mondrian",
   "description": "Random color generation in JavaScript",
   "author": {
